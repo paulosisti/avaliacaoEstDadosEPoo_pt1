@@ -1,4 +1,4 @@
-# Avaliação Estruturas de Dados com Orientação a Objetos - Parte 1
+# Avaliação Estruturas de Dados e Orientação a Objetos - Parte 1
 
 Primeira parte da avaliação final da disciplina de Algorítmos e Estruturas de Dados I com foco nas estruturas de dados somado ao paradígma de POO com Python.
 
